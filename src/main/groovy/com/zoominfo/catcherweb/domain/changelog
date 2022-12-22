@@ -1,3 +1,4 @@
 2022-12-21: Unify code for catcher web and catcher job
 2022-12-22: New entity after unifying catcher web and job
 2022-12-23: Add changes for tickets in SPRINT_0024
+2022-12-24: Add entities fot SPRINT 0025, fix bugs
